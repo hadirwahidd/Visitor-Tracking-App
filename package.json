@@ -1,0 +1,12 @@
+{
+  "name": "visitor-tracking-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Hadir Wahid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
